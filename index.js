@@ -3,4 +3,3 @@ function greet() {
 }
 
 greet();
-greet();
