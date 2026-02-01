@@ -1,5 +1,5 @@
 function greet() {
-  console.log("Hello from the main branch!");
+  console.log("メインブランチ内容修正");
 }
 
 greet() 
