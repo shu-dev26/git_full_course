@@ -21,7 +21,7 @@
 ```
 【Merge の場合】
 main:    A---B---C---------M
-              \           /
+              \           /　
 feature:       D---E---F
 
 【Rebase の場合】
